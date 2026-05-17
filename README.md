@@ -63,7 +63,7 @@ SNR improves from −11.2 dB to +25.8 dB — a +37 dB improvement.
 ## Repository Contents
 | File | Description |
 |------|-------------|
-| `CEP (2).pdf` | Full project report with calculations |
+| `CEP.pdf` | Full project report with calculations |
 | `Simulation.zip` | Proteus simulation + noise files |
 | `Schematic.png` | Circuit schematic |
 | `Oscilloscope.png` | Oscilloscope traces from simulation |
