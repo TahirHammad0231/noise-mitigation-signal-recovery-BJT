@@ -17,10 +17,10 @@ Three cascaded functional blocks:
    load with unity gain
 
 ## Circuit Schematic
-![Schematic](Schematic (2).png)
+![Schematic](Schematic%20(2).jpeg)
 
 ## Simulation Results (Proteus Oscilloscope)
-![Oscilloscope](Oscilloscope.png)
+![Oscilloscope](Oscilloscope.jpeg)
 
 Channel A (Yellow) = Raw noisy input (~465 mV p-p)  
 Channel B (Blue) = Filtered signal (~452 mV p-p)  
